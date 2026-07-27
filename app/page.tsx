@@ -81,7 +81,7 @@ export default function Home() {
               </h2>
               <div className="flex gap-2 mb-4">
                 <a
-                  href="/Presentación_Manuel_Coy.pdf"
+                  href="/Presentacion_Manuel_Coy.pdf"
                   download
                   className="inline-flex items-center gap-2 px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-lg transition-colors text-sm"
                 >
@@ -101,7 +101,7 @@ export default function Home() {
                   Descargar
                 </a>
                 <a
-                  href="/Presentación_Manuel_Coy.pdf"
+                  href="/Presentacion_Manuel_Coy.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 px-4 py-2 bg-gray-200 hover:bg-gray-300 dark:bg-gray-700 dark:hover:bg-gray-600 text-gray-900 dark:text-white font-medium rounded-lg transition-colors text-sm"
@@ -125,7 +125,7 @@ export default function Home() {
             </div>
             <div className="bg-white dark:bg-gray-800 rounded-lg shadow-lg overflow-hidden">
               <iframe
-                src="/Presentación_Manuel_Coy.pdf"
+                src="/Presentacion_Manuel_Coy.pdf"
                 className="w-full h-96"
                 title="Presentación Detallada"
               />
